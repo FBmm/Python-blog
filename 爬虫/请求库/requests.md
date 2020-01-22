@@ -20,7 +20,7 @@ pip insatll requests
 
 ### 模拟请求
 
-```cmd
+```py
 # cmd 执行 python 命令
 python
 
