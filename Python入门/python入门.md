@@ -15,12 +15,12 @@ windows、python2
 cmd 执行
 
 ```cmd
-path=%path%;C:\Python27
+path=%path%;C:\Python27;C:\Python27\Scripts
 ```
 
 C:\Python27 是上面文件的安装目录
 
-也可以同过手动设置环境变量方式：计算机 -> 属性 -> 高级系统设置 -> 系统变量 -> 变量值尾部添加 ";C:\Python27"
+也可以同过手动设置环境变量方式：计算机 -> 属性 -> 高级系统设置 -> 系统变量 -> 变量值尾部添加 ";C:\Python27;C:\Python27\Scripts"
 
 cmd 输入 python 有如下提示则配置成功
 
